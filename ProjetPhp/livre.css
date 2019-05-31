@@ -1,0 +1,124 @@
+
+#livre1{
+    width: 250px;
+    height: 225px;
+    top:250px;
+    position: absolute;
+    left:125px;
+}
+#livre2{
+    width: 250px;
+    height: 225px;
+    top:250px;
+    position: absolute;
+    left:475px;
+}
+#livre3{
+    width: 250px;
+    height: 225px;
+    top:250px;
+    position: absolute;
+    left:825px;
+}
+
+#livre4{
+    width: 250px;
+    height: 225px;
+    top:250px;
+    position: absolute;
+    left:1175px;
+}
+
+#liste1{
+    top:500px;
+    position: absolute;
+    left:150px;
+    font-size: 14px;
+}
+#liste2{
+    top:500px;
+    position: absolute;
+    left:500px;
+    font-size: 14px;
+}
+#liste3{
+    top:500px;
+    position: absolute;
+    left:850px;
+    font-size: 14px;
+}
+#liste4{
+    top:500px;
+    position: absolute;
+    left:1200px;
+    font-size: 14px;
+}
+#bouton_reserver1{
+    width:90px;
+    height:35px;
+    background:red;
+    font:bold 17px Papyrus;
+    border-radius:25%;
+    border-width:2px;
+    border-style:double;
+    border-color:black;
+    color:#fff;
+    position: absolute;
+    margin-left:200px;
+    top:580px;
+    cursor: pointer;
+    display: inline-block;
+}
+#bouton_reserver2{
+    width:90px;
+    height:35px;
+    background:red;
+    font:bold 17px Papyrus;
+    border-radius:25%;
+    border-width:2px;
+    border-style:double;
+    border-color:black;
+    color:#fff;
+    position: absolute;
+    margin-left: 550px;
+    top:580px;
+    cursor: pointer;
+    display: inline-block;
+}
+#bouton_reserver3{
+    width:90px;
+    height:35px;
+    background:red;
+    font:bold 17px Papyrus;
+    border-radius:25%;
+    border-width:2px;
+    border-style:double;
+    border-color:black;
+    color:#fff;
+    position:absolute;
+    margin-left: 900px;
+    top:580px;
+    cursor: pointer;
+    display: inline-block;
+}
+#bouton_reserver4{
+    width:90px;
+    height:35px;
+    background:red;
+    font:bold 17px Papyrus;
+    border-radius:25%;
+    border-width:2px;
+    border-style:double;
+    border-color:black;
+    color:#fff;
+    position: absolute;
+    margin-left: 1250px;
+    top:580px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#bouton_reserver1:hover, #bouton_reserver2:hover, #bouton_reserver3:hover, #bouton_reserver4:hover{
+    font:bold 19px Papyrus;
+    background: #DC143C;
+}
